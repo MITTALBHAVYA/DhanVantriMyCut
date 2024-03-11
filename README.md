@@ -30,5 +30,7 @@ Explore Further: Users can explore additional information about the medicinal pl
 
 Credits
 Developed by Bhavya Mittal
+
+
 Disclaimer
 While the application aims to provide accurate information about medicinal plants, it is intended for educational and informational purposes only. Users should consult with qualified professionals before using any plants for medicinal purposes. The developers of this application are not responsible for any misuse or adverse effects resulting from the use of the information provided by the application.
